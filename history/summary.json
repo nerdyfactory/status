@@ -22,17 +22,17 @@
     "url": "https://nerdyfactory.com/ko/",
     "icon": "https://favicons.githubusercontent.com/nerdyfactory.com",
     "slug": "nf-website-ko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 50,
-    "timeDay": 129,
-    "timeWeek": 82,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "time": 53,
+    "timeDay": 130,
+    "timeWeek": 87,
+    "timeMonth": 53,
+    "timeYear": 53,
     "dailyMinutesDown": {}
   }
 ]
