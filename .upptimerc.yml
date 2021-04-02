@@ -8,6 +8,8 @@ sites:
     url: https://nerdyfactory.com
   - name: Nf website - KO
     url: https://nerdyfactory.com/ko/
+  - name: Nf blog
+    url: https://blog.nerdyfactory.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
