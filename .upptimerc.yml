@@ -10,6 +10,8 @@ sites:
     url: https://nerdyfactory.com/ko/
   - name: Nf blog
     url: https://blog.nerdyfactory.com
+  - name: OSS
+    url: https://oss.nerdyfactory.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
